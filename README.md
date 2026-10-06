@@ -158,38 +158,50 @@ html
 ## 📦 Instalasi
 
 1. Clone repository ini:
-bash
+
+```bash
 git clone https://github.com/NaufalMS29/pbw-a-2526-pertemuan-3-4523210083-NaufalMaulanaSaputra.git
+```
 
+2. Masuk Ke Directory LaraPress:
 
-2. Masuk Ke Directory LaraPress: cd .\LaraPress\
+```bash
+cd .\LaraPress\
+```
 
+5. Install dependencies:
 
-3. Install dependencies:
-bash
+```bash
 composer install
-npm install
 
+dijalankan satu persatu atau di beda terminal dalam satu direktori
+
+npm install
+```
 
 4. Buat file .env:
-bash
-cp .env.example .env
 
+```bash
+cp .env.example .env
+```
 
 5. Generate application key:
-bash
-php artisan key:generate
 
+```bash
+php artisan key:generate
+```
 
 6. Jalankan development server:
-bash
-php artisan serve
 
+```bash
+php artisan serve
+```
 
 7. Akses aplikasi di browser:
 
+```bash
 http://localhost:8000
-
+```
 
 ## 📸 Screenshot
 
