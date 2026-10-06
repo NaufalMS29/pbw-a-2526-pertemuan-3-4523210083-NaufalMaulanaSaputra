@@ -183,6 +183,8 @@ npm install
 
 ```bash
 cp .env.example .env
+
+copy .env.example .env
 ```
 
 5. Generate application key:
