@@ -166,7 +166,7 @@ git clone https://github.com/NaufalMS29/pbw-a-2526-pertemuan-3-4523210083-Naufal
 2. Masuk Ke Directory LaraPress:
 
 ```bash
-cd .\LaraPress\
+cd .\pbw-a-2526-pertemuan-3-4523210083-NaufalMaulanaSaputra\
 ```
 
 5. Install dependencies:
