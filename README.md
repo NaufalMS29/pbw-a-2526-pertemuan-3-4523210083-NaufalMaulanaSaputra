@@ -159,7 +159,7 @@ html
 
 1. Clone repository ini:
 bash
-git clone https://github.com/NaufalMS29/Praktikum-PBW.git
+git clone https://github.com/NaufalMS29/pbw-a-2526-pertemuan-3-4523210083-NaufalMaulanaSaputra.git
 
 
 2. Masuk Ke Directory LaraPress: cd .\LaraPress\
